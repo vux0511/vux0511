@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoàng Văn Vũ</h1>
 <h3 align="center">A Software Engineer Student</h3>
 
-- 👨‍💻 All of my projects are available at (https://vux0511-silk.vercel.app/)
+- 👨‍💻 All of my projects are available at https://vux0511-silk.vercel.app/
 
 - 📫 How to reach me **vux.0511@gmail.com**
 
